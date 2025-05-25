@@ -25,9 +25,6 @@ This repository contains three folders:
 ---
 ## 📱 Screenshots
 
-> _📌 Screenshots are resized for better visibility._
-
----
 
 ### 🏨 Hostel and Room Navigation
 
