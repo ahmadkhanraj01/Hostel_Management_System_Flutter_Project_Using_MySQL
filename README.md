@@ -1,6 +1,6 @@
 # 🏢 Hostel Management System
 
-A database-driven hostel management system built with **Flutter**, **PHP**, and **MySQL**, designed exclusively for administrative use. This project enables hostel staff to manage student records, allocate rooms, track fee payments, and analyze hostel statistics with ease through a responsive mobile interface.
+A database-driven hostel management system built with **Flutter**, **PHP**, and **MySQL**, designed exclusively for administrative use. This project enables hostel staff to manage student records, allocate rooms, track fee payments, and analyze hostel statistics with ease through a responsive mobile interface. Documentation of this project is included here.
 
 ---
 
@@ -23,38 +23,50 @@ This repository contains three folders:
    - You can run and test the app on Android, iOS, or emulator.
 
 ---
-
 ## 📱 Screenshots
 
-> _📌 Screenshots are resized for better visibility. Update paths after uploading images._
+> _📌 Screenshots are resized for better visibility._
+
+---
 
 ### 🏨 Hostel and Room Navigation
-<img src=![Screenshot 2025-05-25 150607](https://github.com/user-attachments/assets/fbf8de31-fab3-46bc-acb7-7f6814be15c0)
- width="500"/>
-![Screenshot 2025-05-25 150635](https://github.com/user-attachments/assets/e2cd24bd-0344-4a90-b3d5-0ff026560f46)
-![Screenshot 2025-05-25 150902](https://github.com/user-attachments/assets/799b6d17-84b1-43c4-be20-080e1b7f991a)
+
+<img src="https://github.com/user-attachments/assets/fbf8de31-fab3-46bc-acb7-7f6814be15c0" width="500"/>
+<img src="https://github.com/user-attachments/assets/e2cd24bd-0344-4a90-b3d5-0ff026560f46" width="500"/>
+<img src="https://github.com/user-attachments/assets/799b6d17-84b1-43c4-be20-080e1b7f991a" width="500"/>
+
+---
 
 ### 🧑‍🎓 Student Management
 
-![Screenshot 2025-05-25 150932](https://github.com/user-attachments/assets/c5875221-e401-4ce3-8d87-a3cdd149b3e6)
-![Screenshot 2025-05-25 150956](https://github.com/user-attachments/assets/a98f5950-bf4e-4dfd-aa9a-916b2fb61069)
-![Screenshot 2025-05-25 151037](https://github.com/user-attachments/assets/d7f81af3-ce51-492d-b99e-d37448a85182)
-![Screenshot 2025-05-25 151138](https://github.com/user-attachments/assets/78a91a4e-6925-4d05-90d8-b4a8589a7586)
-
-### 🔍 Student Search
-![Screenshot 2025-05-25 152106](https://github.com/user-attachments/assets/2f4c3347-6678-4ae4-b384-f4d6e8366910)
-
-
-### 💰 Fee Management
-![Screenshot 2025-05-25 152215](https://github.com/user-attachments/assets/5743aaed-08ad-4336-a263-c4397341b84c)
-
-### 📊 Fee Analysis
-<img src="screenshots/fee_analysis.png" width="500"/>
-
-### 🧑‍🏫 Warden Management
-![Screenshot 2025-05-25 152139](https://github.com/user-attachments/assets/8594ce1b-dc0c-4874-98cf-780d166ab688)
+<img src="https://github.com/user-attachments/assets/c5875221-e401-4ce3-8d87-a3cdd149b3e6" width="500"/>
+<img src="https://github.com/user-attachments/assets/a98f5950-bf4e-4dfd-aa9a-916b2fb61069" width="500"/>
+<img src="https://github.com/user-attachments/assets/d7f81af3-ce51-492d-b99e-d37448a85182" width="500"/>
+<img src="https://github.com/user-attachments/assets/78a91a4e-6925-4d05-90d8-b4a8589a7586" width="500"/>
 
 ---
+
+### 🔍 Student Search
+
+<img src="https://github.com/user-attachments/assets/2f4c3347-6678-4ae4-b384-f4d6e8366910" width="500"/>
+
+---
+
+### 💰 Fee Management
+
+<img src="https://github.com/user-attachments/assets/5743aaed-08ad-4336-a263-c4397341b84c" width="500"/>
+
+---
+
+### 📊 Fee Analysis
+
+<img src="https://github.com/user-attachments/assets/09721535-986f-4bfa-8736-65e879579597" width="500"/>
+
+---
+
+### 🧑‍🏫 Warden Management
+
+<img src="https://github.com/user-attachments/assets/8594ce1b-dc0c-4874-98cf-780d166ab688" width="500"/>
 
 ## ⚙️ Features
 
