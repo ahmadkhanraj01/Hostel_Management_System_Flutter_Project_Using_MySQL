@@ -103,5 +103,5 @@ This repository contains three folders:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/hostel-management-system.git
+   git clone https://github.com/ahmadkhanraj01/Hostel_Management_System_Flutter_Project_Using_MySQL.git
    cd hostel-management-system
